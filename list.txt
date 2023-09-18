@@ -1,0 +1,3 @@
+things tp do: 
+- practice java
+
